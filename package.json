@@ -1,0 +1,19 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "pet-project - clone of excel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irrbis38/excel.git"
+  },
+  "author": "Vasil Iliukhin <irrbis38@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irrbis38/excel/issues"
+  },
+  "homepage": "https://github.com/irrbis38/excel#readme"
+}
